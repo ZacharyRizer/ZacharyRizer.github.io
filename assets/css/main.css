@@ -2193,6 +2193,7 @@ body.is-preload #header footer {
   background: #35b88f url('images/banner.svg') bottom center no-repeat;
   padding: 5em 0 5em 0;
   margin: 0;
+  border: border-box;
   background-size: 125% auto;
 }
 
